@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Himanshu 👋</h1>
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-%230077B5.svg?&style=for-the-badge&logo=web&logoColor=white" alt="Website"></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:himanshupoptani12@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://himanshu.bio"><img src="https://img.shields.io/badge/Website-%230077B5.svg?&style=for-the-badge&logo=web&logoColor=white" alt="Website"></a>
+  <a href="https://linkedin.com/in/hxxxp"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <p align="center">
@@ -17,6 +17,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=coderwithsense&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=11CBDD" alt="GitHub Streak">
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=coderwithsense&color=blueviolet" alt="Profile Views">
+</p>
+
 
 ## About Me
 
