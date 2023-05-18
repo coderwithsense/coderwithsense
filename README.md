@@ -30,14 +30,28 @@ I am a passionate developer who loves to code and build amazing applications. I 
 
 ### Skills
 
-- Programming Languages: Python, CPP, solidity, javascript
-- Frameworks/Libraries: django, hardhat, react
-- Tools/Technologies: Blockchain
+<p align="center">
+  <img src="https://img.shields.io/badge/Programming%20Languages-Python%20%7C%20C%2B%2B%20%7C%20Solidity%20%7C%20JavaScript-blueviolet" alt="Programming Languages">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frameworks%2FLibraries-Django%20%7C%20Hardhat%20%7C%20React-green" alt="Frameworks/Libraries">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools%2FTechnologies-Blockchain-ff69b4" alt="Tools/Technologies">
+</p>
+
 
 ## Contact Me
 
 Feel free to reach out to me via email at youremail@example.com. You can also visit my [website](https://himanshu.bio) for more information about my work.
 
 Let's connect on [LinkedIn](https://linkedin.com/in/hxxxp) and collaborate on exciting projects!
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Random Quotes">
+</p>
+
 
 <!-- Additional sections or customization can be added as per your preference -->
