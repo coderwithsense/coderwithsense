@@ -33,4 +33,4 @@ I’m a developer with a passion for coding and building impactful applications.
 
 ---
 
-Feel free to reach out via [email](mailto:himanshupoptani12@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/hxxxp). Let's create something amazing!
+Feel free to reach out via [email](mailto:himanshupoptani12@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/hxxp/). Let's create something amazing!
