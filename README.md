@@ -9,13 +9,33 @@
 
 ---
 
-### About Me
-I’m a developer with a passion for coding and building impactful applications. I specialize in Python, C++, JavaScript, Solidity, and blockchain technologies.
+### 🧠 About Me
+I'm a developer passionate about coding, startups, and building impactful applications.  
+I specialize in **Python**, **C++**, **JavaScript**, **Solidity**, and **blockchain** technologies — and I'm deeply involved in **AI SaaS development**.
 
-### Skills
+---
+
+### 🛠 Skills
 - **Languages:** Python | C++ | JavaScript | Solidity
 - **Frameworks/Libraries:** Django | React | Hardhat
-- **Technologies:** Blockchain
+- **Technologies:** Blockchain | Smart Contracts | AI Workflows
+
+---
+
+### 🤖 Latest AI Projects & Experience
+- 🧠 **ZeroEffort**: Building an AI SaaS platform for freelancers and solopreneurs to automate goals, tasks, and productivity workflows.
+- 🛠 **LangGraph AI Agents**: Designed autonomous AI agents with GPT-4 and LangGraph for task and knowledge automation.
+- 📚 **Fine-Tuned LLMs**: Fine-tuned custom LLMs for specialized domains like mental health support and goal tracking.
+- 🧩 **AI SaaS Product Development**: Created full-stack AI applications using React, Node.js, FastAPI, MongoDB, OpenAI, Gemini, and Hugging Face APIs.
+- 🎯 **Data Labeling & Evaluation**: Assessed AI-generated outputs based on correctness, execution, and quality to improve models.
+- 📈 **AI Usage Monitoring Systems**: Built scalable user-based AI usage tracking and limits with Drizzle ORM and PostgreSQL.
+
+---
+
+### 🚀 Currently Working On
+- Scaling **ZeroEffort** into a full AI productivity ecosystem.
+- Building an **AI-powered Quiz Generator** from uploaded PDFs.
+- Preparing for **GRE** and **IELTS** exams for MSCS applications in Germany.
 
 ---
 
@@ -33,4 +53,6 @@ I’m a developer with a passion for coding and building impactful applications.
 
 ---
 
-Feel free to reach out via [email](mailto:himanshupoptani12@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/hxxp/). Let's create something amazing!
+### 📬 Let's Connect
+Feel free to reach out via [email](mailto:himanshupoptani12@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/hxxxp/).  
+Let's build something amazing together!
